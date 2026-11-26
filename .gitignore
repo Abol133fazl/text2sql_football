@@ -1,5 +1,6 @@
-.env
-__pycache__/
 venv/
+__pycache__/
 *.pyc
-config.py
+.env
+.idea/
+.vscode/
